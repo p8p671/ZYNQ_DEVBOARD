@@ -1,0 +1,165 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "2cb711d8-2bac-4134-8e97-89e4c5dae062")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 5.08 13.97)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0c3ceeb5-4419-424e-b95f-dc4d2fea73fc")
+		(property "Sheetname" "POWER"
+			(at 5.08 13.2584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "C:/Users/User/Downloads/XC7Z020-6/2_POWER.kicad_sch"
+			(at 5.08 18.3646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ProDocument_ZYNQ7020_V1_2024-04-10"
+				(path "/2cb711d8-2bac-4134-8e97-89e4c5dae062"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 5.08 5.08)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2ca07063-57e4-45d3-bd6b-465bbb6c58e4")
+		(property "Sheetname" "BANK34/35"
+			(at 5.08 4.3684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "C:/Users/User/Downloads/XC7Z020-6/1_BANK34{slash}35.kicad_sch"
+			(at 5.08 9.4746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ProDocument_ZYNQ7020_V1_2024-04-10"
+				(path "/2cb711d8-2bac-4134-8e97-89e4c5dae062"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 5.08 22.86)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6df107da-e740-419d-8fdb-99bb491a6ad1")
+		(property "Sheetname" "DDR3"
+			(at 5.08 22.1484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "C:/Users/User/Downloads/XC7Z020-6/3_DDR3.kicad_sch"
+			(at 5.08 27.2546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ProDocument_ZYNQ7020_V1_2024-04-10"
+				(path "/2cb711d8-2bac-4134-8e97-89e4c5dae062"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 5.08 31.75)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7b042c10-43e0-40d8-883b-042bab87adcf")
+		(property "Sheetname" "BANK500/501"
+			(at 5.08 31.0384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "C:/Users/User/Downloads/XC7Z020-6/4_BANK500{slash}501.kicad_sch"
+			(at 5.08 36.1446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ProDocument_ZYNQ7020_V1_2024-04-10"
+				(path "/2cb711d8-2bac-4134-8e97-89e4c5dae062"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

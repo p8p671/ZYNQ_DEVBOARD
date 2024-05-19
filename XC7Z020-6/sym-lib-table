@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "ZYNQ7020_V-easyedapro")(type "KiCad")(uri "${KIPRJMOD}/ZYNQ7020_V-easyedapro.kicad_sym")(options "")(descr ""))
+)

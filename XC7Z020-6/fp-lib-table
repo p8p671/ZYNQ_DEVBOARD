@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ProDocument_ZYNQ7020_V1_2024-04-10")(type "KiCad")(uri "$(KIPRJMOD)/ProDocument_ZYNQ7020_V1_2024-04-10.pretty")(options "")(descr ""))
+)
